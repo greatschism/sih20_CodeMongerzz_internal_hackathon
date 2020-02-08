@@ -2,3 +2,4 @@
 <p> We are trying to ease the insurance approval process by automating the digitization of lab reports. We have made an ML model that is able to read the document with ease. We have also used flask for backend which is deployed on heroku. The interface of the app is interactive and easy to use. </p>
 
 <b>Update: Demo video is live.</b>
+<b>Update: App deployed on AWS -->Link : http://flaskocr-env-1.rbcnwddmre.ap-south-1.elasticbeanstalk.com/ocr </b>
